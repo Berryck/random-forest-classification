@@ -37,13 +37,6 @@
 
 ## 🌟 项目亮点
 
-### ✅ 修复原版代码的关键问题
-
-- ❌ **修复图片保存bug**：原代码 `plt.savefig()` 在 `plt.show()` 之后 → 保存空白图
-- ❌ **避免数据泄露**：不再用测试集选参数，改用 OOB / 交叉验证
-- ❌ **修正评估方法**：不再用训练集自评，严格遵循训练/测试分离
-- ✅ **完善评估指标**：不止 accuracy，补充 Precision/Recall/F1/AUC/Kappa
-
 ### 🎓 三级递进式教学体系
 
 | 层级                  | 内容                                       | 适合人群               |
@@ -79,7 +72,6 @@
 random-forest-classification/
 ├── 随机森林分类算法_完整版.py    # 主程序（初级/进阶/高级三层内容）
 ├── 数据13.1.csv                   # 信贷违约数据集（700条样本）
-├── 改进说明文档.md                # 详细改进说明与知识点
 ├── outputs_figures/               # 所有生成的可视化图表（18张）
 │   ├── 01_基础_混淆矩阵热力图.png
 │   ├── 02_进阶_调参曲线.png
@@ -279,6 +271,7 @@ ROC、PR曲线、校准曲线、混淆矩阵、阈值权衡、概率分布六合
 | 🌐 GitHub     | [https://github.com/Berryck](https://github.com/Berryck) |
 
 ### ⬇️ 扫码关注获取更多教程 ⬇️
+<img width="596" height="598" alt="image" src="https://github.com/user-attachments/assets/cad134df-2158-43f7-bc9d-567f8f849101" />
 
 **持续更新机器学习、数据挖掘、Python编程干货**
 
