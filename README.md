@@ -271,7 +271,7 @@ ROC、PR曲线、校准曲线、混淆矩阵、阈值权衡、概率分布六合
 | 🌐 GitHub     | [https://github.com/Berryck](https://github.com/Berryck) |
 
 ### ⬇️ 扫码关注获取更多教程 ⬇️
-<img width="596" height="598" alt="image" src="https://github.com/user-attachments/assets/cad134df-2158-43f7-bc9d-567f8f849101" />
+<img width="279" height="286" alt="image" src="https://github.com/user-attachments/assets/7a7ba060-eeed-49df-87f4-a6bc59378962" />
 
 **持续更新机器学习、数据挖掘、Python编程干货**
 
